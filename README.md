@@ -8,21 +8,21 @@ ThingsHub is a web based open source application developed for the IoT analytics
 # Prerequisites
 Wamp, xamp, etc
 # How to get started?
-Signup
-Verify Your Mail
-Sign In
-Create Your own channel / Data collection point
-Follow instructions to transmit data to the server in API tab
-Customize your graph
+1. Signup
+2. Verify Your Mail
+3. Sign In
+4. Create Your own channel / Data collection point
+5. Follow instructions to transmit data to the server in API tab
+6. Customize your graph
 # Built With
-PHP
-Css
-Bootstrap
-Ajax
-Javascript
-MySql
+- PHP
+- Css
+- Bootstrap
+- Ajax
+- Javascript
+- MySql
 # Authors
-Hasnain Abid – email2hasnain@gmail.com - Lead Developer – Abasyn University
-Arslan Nazim – arslannazim1234@gmail.com - Lead Developer – Abasyn University
+- Hasnain Abid – email2hasnain@gmail.com - Lead Developer – Abasyn University
+- Arslan Nazim – arslannazim1234@gmail.com - Lead Developer – Abasyn University
 # License
 ThingsHub is registered under MIT license : https://has.mit-license.org
